@@ -1,0 +1,7 @@
+D:\Программы\Project\УП Рмп\zd4\testVar4\testVar4\bin\Debug\testVar4.exe.config
+D:\Программы\Project\УП Рмп\zd4\testVar4\testVar4\bin\Debug\testVar4.exe
+D:\Программы\Project\УП Рмп\zd4\testVar4\testVar4\bin\Debug\testVar4.pdb
+D:\Программы\Project\УП Рмп\zd4\testVar4\testVar4\obj\Debug\testVar4.csproj.AssemblyReference.cache
+D:\Программы\Project\УП Рмп\zd4\testVar4\testVar4\obj\Debug\testVar4.csproj.CoreCompileInputs.cache
+D:\Программы\Project\УП Рмп\zd4\testVar4\testVar4\obj\Debug\testVar4.exe
+D:\Программы\Project\УП Рмп\zd4\testVar4\testVar4\obj\Debug\testVar4.pdb

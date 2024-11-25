@@ -1,0 +1,25 @@
+﻿using ClassLibrary1;
+using Microsoft.VisualStudio.TestTools.UnitTesting;
+using System;
+
+namespace UnitTestProject1
+{
+    //test
+    [TestClass]
+    public class UnitTest2
+    {
+        test test = new test();
+        
+        [TestMethod]
+        public void TestMethod1()
+        {
+            Assert.AreEqual(true, test.Method1("D:\\Программы\\Project\\УП Рмп\\zd4\\testVar4\\testVar4\\bin\\Debug\\input.txt"));
+        }
+        
+        [TestMethod]
+        public void TestMethod2()
+        {
+            Assert.AreEqual(false, test.Method1("D:\\Программы\\Project\\УП Рмп\\zd4\\testVar4\\testVar4\\bin\\Debug\\input.txt"));
+        }
+    }
+}

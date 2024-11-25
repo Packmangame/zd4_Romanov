@@ -1,0 +1,7 @@
+D:\Программы\Project\УП Рмп\zd4\Zad4_var1\ConsoleApp1\obj\Debug\Zad4_var1.csproj.AssemblyReference.cache
+D:\Программы\Project\УП Рмп\zd4\Zad4_var1\ConsoleApp1\obj\Debug\Zad4_var1.csproj.CoreCompileInputs.cache
+D:\Программы\Project\УП Рмп\zd4\Zad4_var1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\Программы\Project\УП Рмп\zd4\Zad4_var1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\Программы\Project\УП Рмп\zd4\Zad4_var1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\Программы\Project\УП Рмп\zd4\Zad4_var1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\Программы\Project\УП Рмп\zd4\Zad4_var1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

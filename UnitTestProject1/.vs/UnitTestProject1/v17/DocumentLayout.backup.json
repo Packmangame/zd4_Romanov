@@ -1,0 +1,60 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B\\Project\\\u0423\u041F \u0420\u043C\u043F\\zd4\\UnitTestProject1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{71416D80-9B81-4EFA-97BE-90950D12D339}|UnitTestProject1\\UnitTestProject1.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B\\project\\\u0443\u043F \u0440\u043C\u043F\\zd4\\unittestproject1\\unittestproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71416D80-9B81-4EFA-97BE-90950D12D339}|UnitTestProject1\\UnitTestProject1.csproj|solutionrelative:unittestproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBC76285-B6C7-46F1-8B6C-07847069A71E}|..\\ClassLibrary1\\ClassLibrary1\\ClassLibrary1.csproj|d:\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B\\project\\\u0443\u043F \u0440\u043C\u043F\\zd4\\classlibrary1\\classlibrary1\\4.2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 163,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "4.2.cs",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B\\Project\\\u0423\u041F \u0420\u043C\u043F\\zd4\\ClassLibrary1\\ClassLibrary1\\4.2.cs",
+              "RelativeDocumentMoniker": "..\\ClassLibrary1\\ClassLibrary1\\4.2.cs",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B\\Project\\\u0423\u041F \u0420\u043C\u043F\\zd4\\ClassLibrary1\\ClassLibrary1\\4.2.cs",
+              "RelativeToolTip": "..\\ClassLibrary1\\ClassLibrary1\\4.2.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAiwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T05:57:51.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B\\Project\\\u0423\u041F \u0420\u043C\u043F\\zd4\\UnitTestProject1\\UnitTestProject1\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "UnitTestProject1\\UnitTest1.cs",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u044B\\Project\\\u0423\u041F \u0420\u043C\u043F\\zd4\\UnitTestProject1\\UnitTestProject1\\UnitTest1.cs",
+              "RelativeToolTip": "UnitTestProject1\\UnitTest1.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAowHQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T12:25:23.48Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
